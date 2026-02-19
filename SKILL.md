@@ -4,7 +4,7 @@ description: Analyze any technology domain for exponential growth patterns using
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3962
+  version: 1.0.3963
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - exponential-trend-analysis
